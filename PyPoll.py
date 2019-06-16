@@ -17,7 +17,7 @@ with open(csvpath) as csvfile:
     csv_header = next(csvfile)
     #print(f"Header: {csv_header}")
  
-    #Declare variables as empty dictionaries and lists
+    #
     Candidates = {}
     Count = 0
     Votes_Cast = 0
