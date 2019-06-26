@@ -1,6 +1,8 @@
 import csv
 import os
 
+
+#comment
 # Set path for file
 csvpath = os.path.join("raw_data/election_data.csv")
 file_to_ouput = "analysis/election_analysis.txt"
